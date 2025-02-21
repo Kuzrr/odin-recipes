@@ -1,2 +1,2 @@
 # odin-recipes
-Basic stronka dla poćwiczenia podstaw HTML
+Basic site for practice html elements.
