@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+    font-family: Cursive;
+}
+
+h1,
+p
+{
+    background-color: wheat;
+    text-align: center;
+}
+
+li{
+    font-size: 21px;
+}
+
