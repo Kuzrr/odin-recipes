@@ -25,7 +25,7 @@ span{
 }
 
 .title{
-    margin: 25px;
+    margin: 20px;
     text-align: center;
     border-bottom: 2px solid;
 }
@@ -45,6 +45,7 @@ span{
 }
 .steps li{
     font-size: 16px;
+    margin: 3px;
 }
 
 .title h1{

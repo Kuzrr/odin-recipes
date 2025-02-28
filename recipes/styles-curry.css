@@ -45,6 +45,7 @@ span{
 }
 .steps li{
     font-size: 16px;
+    margin: 8px;
 }
 
 .title h1{
