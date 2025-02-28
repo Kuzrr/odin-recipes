@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(252, 242, 229);
+    font-family: Cursive;
+}
+
+h1,
+h2,
+.middle
+{
+    text-align: center;
+    background-color: bisque;
+}
+ .middle{
+    background-color: rgb(252, 242, 229);
+ }
+
+ li,
+ p{
+    font-size: 18px;
+ }
